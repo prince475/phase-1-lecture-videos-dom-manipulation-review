@@ -1,0 +1,38 @@
+{ 
+    "animalData" :[
+        {
+            "name": "Red Panda",
+            "imageUrl": "https://images.pexels.com/photos/145902/pexels-photo-145902.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description": "not actually a panda",
+            "donations": 0
+        },
+        {
+            "name": "pangolin",
+            "imageUrl":"https://images.pexels.com/photos/982186/pexels-photo-982186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description": "The Pangolin, otherwise known as the scaly anteater",
+            "donations": 0        
+        },
+        {
+            "name": "Mantis Shrimp",
+            "imageUrl":"https://images.pexels.com/photos/1085542/pexels-photo-1085542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description": "The mantis shrimp can punch with the speed of a 0.22 caliber Bullet",
+            "donations": 0
+        },
+        {
+            "name": "Gibbon",
+            "imageUrl":"https://images.pexels.com/photos/7709934/pexels-photo-7709934.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "description": "Gibbons communicate by singing!",
+            "donations": 0
+        },
+        {
+            "name": "Wombat",
+            "imageUrl":"https://images.pexels.com/photos/13008971/pexels-photo-13008971.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "description": "They have cube-shaped poop",
+            "donations": 0
+        }
+
+
+    
+    ]
+ 
+}

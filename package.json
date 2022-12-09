@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-lecture-videos-dom-manipulation-review",
+  "version": "1.0.0",
+  "description": "manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince475/phase-1-lecture-videos-dom-manipulation-review.git"
+  },
+  "author": "prince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince475/phase-1-lecture-videos-dom-manipulation-review/issues"
+  },
+  "homepage": "https://github.com/prince475/phase-1-lecture-videos-dom-manipulation-review#readme"
+}
